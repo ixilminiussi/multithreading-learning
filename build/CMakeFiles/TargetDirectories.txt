@@ -1,3 +1,0 @@
-/home/ixilminiussi/Desktop/learning/multithreading-learning/build/CMakeFiles/main.dir
-/home/ixilminiussi/Desktop/learning/multithreading-learning/build/CMakeFiles/edit_cache.dir
-/home/ixilminiussi/Desktop/learning/multithreading-learning/build/CMakeFiles/rebuild_cache.dir
